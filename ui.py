@@ -9,13 +9,8 @@ def display_separator_thin():
     print("-" *70)
 
 def display_menu():
-    print("\nMENU OPTIONS")
-    print("1 - Add Vinyl To Collection")
-    print("2 - View Collection")
-    print("3 - View Price Data")
-    print("4 - Select Random Vinyl")
-    print("5 - Show Menu Options")
-    print("6 - Exit Program")
+    print("\nMENU OPTIONS\n1 - Add Vinyl To Collection\n2 - View Collection\n3 - View Price Data\n4 - Select Random Vinyl\n5 - Show Menu Options\n6 - Exit Program")
+
 
 #endregion
 
