@@ -1,6 +1,6 @@
 #region -- MENU ELEMENTS --
 def display_title():
-    print(" "*16 + "Vinyl Collection Tracker")
+    print(" "*17 + "Vinyl Collection Tracker")
 
 def display_separator_thick():
     print("=" *56)
