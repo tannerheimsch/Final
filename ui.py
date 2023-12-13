@@ -11,9 +11,6 @@ def display_separator_thick():
 
 def display_menu():
     print("\nMENU OPTIONS\n1 - Add Vinyl To Collection\n2 - View Collection\n3 - View Price Data\n4 - Select Random Vinyl\n5 - Import from CSV\n6 - Show Menu Options\n7 - Exit Program")
-
-
-
 #endregion
 
 #region -- MAIN FUNCTION
