@@ -2,6 +2,8 @@
 
 The **Vinyl Collection Tracker** program is a user-friendly platform designed to help users manage their vinyl record collections and integrate into a database file. This application enables users to effortlessly add and organize albums, capturing essential details such as album name, artist, genre, price, and release year. The primary goal is to empower users to curate a digital representation of their vinyl collection, enhancing accessibility and ease of management.
 
+![Vinyl Tracker](https://i.gyazo.com/534e7a684ea1a951a923fc64434eff44.png)
+
 ## Key Features
 
 ### Effortless Album Management
